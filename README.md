@@ -2,14 +2,6 @@
 
 # Philosophers
 
-## 📜 Table of Contents
-
-- [🧐 About](https://fasthub.cc/librity/ft_philosophers#about)
-- [✅ Checklist](https://fasthub.cc/librity/ft_philosophers#checklist)
-- [🏁 Getting Started](https://fasthub.cc/librity/ft_philosophers#getting_started)
-- [📝 Notes](https://fasthub.cc/librity/ft_philosophers#notes)
-- [📚 Resources](https://fasthub.cc/librity/ft_philosophers#resources)
-
 ## 🧐 About
 
 A C implementation of the classic [Dining Philosophers Problem](https://wikiless.org/wiki/Dining_philosophers_problem?lang=en) by [Edsger Dijkstra](https://wikiless.org/wiki/Edsger_W._Dijkstra?lang=en), with threads, mutexes, forks and semaphores.
