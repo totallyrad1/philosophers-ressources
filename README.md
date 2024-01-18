@@ -123,9 +123,11 @@ This should create a `philo` executable in the root folder:
 
 ### Helgrind error: `lock order "0x4AAB040 before 0x4AAB068" violated`
 
-![image.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9f9cf76-6fe4-42cd-92b4-2b8f8b9b7150/image.png)
+![image](https://github.com/totallyrad1/philosophers-ressources/assets/67210558/184d761e-e7b3-4a90-832a-e22fc3eed4cf)
 
-![image.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c3f2616-f884-4e91-ba80-4f6c85d9f20a/image.png)
+
+![image](https://github.com/totallyrad1/philosophers-ressources/assets/67210558/4f1c56c0-fed0-44df-b532-4079163927fd)
+
 
 ## 📚 Resources
 
