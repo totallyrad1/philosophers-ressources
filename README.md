@@ -301,8 +301,8 @@ resources
 - [ ]  https://github.com/GOAT095/philosophers-tester/blob/master/delay_o_meter.py
 - [ ]  https://randu.org/tutorials/threads/
 - [ ]  https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2
-- [x]  https://www.youtube.com/watch?v=d9s_d28yJq0
-- [x]  https://www.youtube.com/watch?v=HDohXvS6UIk
+- [ ]  https://www.youtube.com/watch?v=d9s_d28yJq0
+- [ ]  https://www.youtube.com/watch?v=HDohXvS6UIk
 - [ ]  https://www.youtube.com/watch?v=-i8Kzuwr4T4
 - [ ]  http://files.kipr.org/gcer/2009/proceedings/Myers_ApplicationPthreads.pdf
 - [ ]  https://www.youtube.com/watch?v=GNw3RXr-VJk
